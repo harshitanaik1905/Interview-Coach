@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+spacy
+sentence-transformers
+transformers
+torch
+SpeechRecognition
+pyttsx3
+PyMuPDF
+reportlab
+python-dotenv
